@@ -92,16 +92,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dhanuka2552&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=phuocantd&theme=react-dark&hide_border=true">
-<p>
-  
-  
-| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=dhanuka2552&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
-  
-<!--
+
 
 
 
