@@ -8,7 +8,8 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanuka2552&label=Profile%20views&color=0e75b6&style=flat" alt="dhanuka2552" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanuka2552&label=Profile%20views&color=0e75b6&style=flat" alt="dhanuka2552" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -28,7 +29,9 @@
 </tr>
 </table>
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 
 
@@ -74,8 +77,10 @@
 
 <br/>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
+
+</h3>
+<p align="center">
 <a href="https://www.linkedin.com/feed/?trk=404_page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanuka neranjan" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100084872520298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhanuka neranjan" height="30" width="40" /></a>
 <a href="https://instagram.com/dhanuka neranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanuka neranjan" height="30" width="40" /></a>
@@ -87,6 +92,16 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dhanuka2552&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=phuocantd&theme=react-dark&hide_border=true">
+<p>
+  
+  
+| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=dhanuka2552&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+  
+<!--
 
 
 
