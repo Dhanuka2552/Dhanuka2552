@@ -6,10 +6,9 @@
 
 </div>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanuka2552&label=Profile%20views&color=0e75b6&style=flat" alt="dhanuka2552" /> </p>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 <table align="center">
 <tr border="none">
